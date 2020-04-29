@@ -95,7 +95,7 @@ main {
 }
 
 #article-list article {
-  flex: 1 0 calc(250px - 30px);
+  flex: 1 1 calc(250px - 30px);
 }
 
 #article-list article:not(:nth-child(4n + 0)) {
